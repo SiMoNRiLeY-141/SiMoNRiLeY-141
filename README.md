@@ -56,14 +56,18 @@
 ## 📊 Telemetry (GitHub Stats)
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SiMoNRiLeY-141&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SiMoNRiLeY-141&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
   <br><br>
-  <!-- GitHub Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiMoNRiLeY-141&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+  <!-- GitHub Activity Graph Line Chart -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiMoNRiLeY-141&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
   <br><br>
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonriley-141&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
+
+  <!-- GitHub Streak Card (The one that was already working!) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiMoNRiLeY-141&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
