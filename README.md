@@ -59,9 +59,8 @@
   <br><br>
   <!-- GitHub Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiMoNRiLeY-141&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br><br>
   <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiMoNRiLeY-141&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonriley-141&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
 ---
@@ -81,5 +80,5 @@
 
 <div align="center">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=SiMoNRiLeY-141&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=simonriley-141&color=blueviolet&style=flat-square&label=PROFILE+VIEWS&v=1" alt="Profile Views" />
 </div>
