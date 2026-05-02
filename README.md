@@ -59,6 +59,7 @@
   <br><br>
   <!-- GitHub Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiMoNRiLeY-141&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br><br>
   <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonriley-141&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
