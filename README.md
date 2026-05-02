@@ -12,13 +12,21 @@
 
 ---
 
-## 🚀 Mission Briefing (About Me)
+## 🚀 Mission Briefing (Operator Profile)
 
 - 🎓 **Base of Operations:** Final-year **B.Tech EEE** operative at Government Engineering College (GEC), Palakkad.
 - 🔭 **Current Directive:** Developing **autonomous systems, IIoT applications, and quadcopter navigation logic**. (Sky's not the limit, it's just the playground!).
 - 💼 **Past Deployment:** **Research Project Intern** at the Robotics Research Centre, IIIT Hyderabad.
 - 🌱 **Skill Acquisition:** Deep diving into the dark arts of **PID controller tuning, cascaded control architectures, and ROS 2**.
 - 🏆 **Recent Victory:** Dominated the **ScaleUp 2026 Line Follower competition**. 🥇
+
+---
+
+## 🌍 Field Operations (Experience & Outreach)
+
+*   ⚡ **Technical Intern:** Deployed at the KSEB Thottiyar Hydro Electric Project.
+*   ☀️ **Solar Operations:** Executed solar panel installation and maintenance in the Kurukankund Tribal Village and Attappady (CORAL Project).
+*   🚀 **STEM Educator:** Collaborated with the IEEE Malabar Subsection to lead the "Reise x Kusruthikalam" STEM workshops.
 
 ---
 
@@ -49,7 +57,14 @@
 
 *   🚁 **Quadcopter Navigation System:** Engineered sector-based decision logic utilizing Sparse Optical Flow for autonomous flight. *(Eyes in the sky).*
 *   ⚙️ **AuraNode:** Built an Industrial IoT (IIoT) motor health monitoring system for predictive maintenance. *(Fixing it before it breaks).*
-*   👷 **Smart-Guard:** Designed a safety wearable project to enhance protection and monitoring for industrial workers. *(Leave no man behind).*
+*   👷 **Smart-Guard:** Designed a safety wearable project to enhance protection and monitoring for industrial workers. *(Leave no operative behind).*
+
+---
+
+## 🎮 R&R (Off-Duty)
+*   **Audio:** Streaming high-fidelity tracks via Apple Music.
+*   **Comms Check:** Following Formula 1 and mapping celestial constellations.
+*   **Simulations:** Running campaigns in tactical and sci-fi shooters (Halo, Crysis).
 
 ---
 
@@ -66,7 +81,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiMoNRiLeY-141&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
   <br><br>
 
-  <!-- GitHub Streak Card (The one that was already working!) -->
+  <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiMoNRiLeY-141&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
