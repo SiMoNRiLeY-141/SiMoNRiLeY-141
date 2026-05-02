@@ -62,7 +62,7 @@
 ---
 
 ## 🎮 R&R (Off-Duty)
-*   **Audio:** Streaming high-fidelity tracks via Apple Music.
+*   **Audio:** Streaming high-fidelity tracks via Spotify Music.
 *   **Comms Check:** Following Formula 1 and mapping celestial constellations.
 *   **Simulations:** Running campaigns in tactical and sci-fi shooters (Halo, Crysis).
 
