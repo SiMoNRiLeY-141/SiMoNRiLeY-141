@@ -1,28 +1,30 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtMTM5d2F0YWNpbTMycnNodDcwZmIxdWNrb3FmNjZkZmFwd3VpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2gzwEDCBqQe1M4yFq/giphy.gif" width="200" alt="Robotics GIF" />
+  
   <h1>Hi 👋, I'm Adhil Jahan M B</h1>
-  <h3>Electrical & Electronics Engineering | Robotics & Autonomous Systems Enthusiast</h3>
+  <h3>⚡ Electrifying Hardware | 🤖 Engineering the Autonomous Future</h3>
   
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=B.Tech+EEE+at+GEC+Palakkad;Robotics+%26+Autonomous+Systems;IIoT+%26+Control+Logic;ROS+2+%7C+Pixhawk+%7C+Raspberry+Pi" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=B.Tech+EEE+at+GEC+Palakkad;Robotics+%26+Autonomous+Systems;IIoT+%26+Control+Logic;ROS+2+%7C+Pixhawk+%7C+Raspberry+Pi;Task+Force+141:+Ready+for+deployment" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Mission Briefing (About Me)
 
-- 🎓 Final-year **B.Tech EEE** student at Government Engineering College (GEC), Palakkad.
-- 🔭 Currently developing **autonomous systems, IIoT applications, and quadcopter navigation logic**.
-- 💼 Previously: **Research Project Intern** at the Robotics Research Centre, IIIT Hyderabad.
-- 🌱 Deep diving into **PID controller tuning, cascaded control architectures, and ROS 2**.
-- 🏆 Recent win: **ScaleUp 2026 Line Follower competition**.
+- 🎓 **Base of Operations:** Final-year **B.Tech EEE** operative at Government Engineering College (GEC), Palakkad.
+- 🔭 **Current Directive:** Developing **autonomous systems, IIoT applications, and quadcopter navigation logic**. (Sky's not the limit, it's just the playground!).
+- 💼 **Past Deployment:** **Research Project Intern** at the Robotics Research Centre, IIIT Hyderabad.
+- 🌱 **Skill Acquisition:** Deep diving into the dark arts of **PID controller tuning, cascaded control architectures, and ROS 2**.
+- 🏆 **Recent Victory:** Dominated the **ScaleUp 2026 Line Follower competition**. 🥇
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Arsenal (Tech Stack & Tools)
 
-### Robotics & Hardware
+### 🤖 Robotics & Hardware
 <p>
   <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi" />
@@ -30,7 +32,7 @@
   <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 </p>
 
-### Simulation, Design & Software
+### 💻 Simulation, Design & Software
 <p>
   <img src="https://img.shields.io/badge/MATLAB-e20000.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Altium_Designer-A59556?style=for-the-badge&logo=altium&logoColor=white" alt="Altium Designer" />
@@ -38,20 +40,20 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </p>
 
-### Focus Areas
-> **Sensor Integration** (LiDAR, Optical Flow) • **MAVLink** • **Predictive Maintenance** • **Control Systems**
+### 🎯 Tactical Focus Areas
+> **Sensor Integration** (LiDAR, Optical Flow) • **MAVLink Communications** • **Predictive Maintenance** • **Control Systems**
 
 ---
 
-## 💡 Highlighted Projects
+## 💡 Classified Blueprints (Highlighted Projects)
 
-*   🚁 **Quadcopter Navigation System:** Developed sector-based decision logic utilizing Sparse Optical Flow for autonomous flight.
-*   ⚙️ **AuraNode:** Built an Industrial IoT (IIoT) motor health monitoring system aimed at predictive maintenance.
-*   👷 **Smart-Guard:** Designed a safety wearable project to enhance protection and monitoring for industrial workers.
+*   🚁 **Quadcopter Navigation System:** Engineered sector-based decision logic utilizing Sparse Optical Flow for autonomous flight. *(Eyes in the sky).*
+*   ⚙️ **AuraNode:** Built an Industrial IoT (IIoT) motor health monitoring system for predictive maintenance. *(Fixing it before it breaks).*
+*   👷 **Smart-Guard:** Designed a safety wearable project to enhance protection and monitoring for industrial workers. *(Leave no man behind).*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Telemetry (GitHub Stats)
 
 <div align="center">
   <!-- GitHub Stats Card -->
@@ -66,7 +68,7 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Comms Channel (Let's Connect)
 
 <div align="center">
   <a href="https://linkedin.com/in/adhiljahan" target="_blank">
